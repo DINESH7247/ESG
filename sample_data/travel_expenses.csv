@@ -1,0 +1,7 @@
+employee,travel_type,origin,destination,distance_km,hotel_nights,travel_date
+j.smith,flight,JFK,LHR,,0,2026-02-11
+a.lee,hotel,LHR,, ,4,11/02/2026
+m.patel,taxi,FRA,AMS,654,0,2026-02-12
+r.garcia,flight,SFO,ORD,,0,2026-02-20
+k.nguyen,flight,JFK,, ,0,2026-02-22
+j.smith,hotel,JFK,, ,2,2026-02-11
